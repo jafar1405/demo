@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    { "id": 1, "username": "jafar", "password": "pass123" },
+    { "id": 2, "username": "jafar", "password": "pass123" }
+  ],
 }
