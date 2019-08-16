@@ -188,5 +188,12 @@
 			"ModelNumber": "MI002",
 			"ModelName": "MIsmartmobile2"
 		}]
+	}],
+	user:[{
+		id:0,
+	 "firstname":"jafar",
+		"lastname":"md",
+		"username":"jafar1405",
+		"password":"1405jafar"
 	}]
 }
